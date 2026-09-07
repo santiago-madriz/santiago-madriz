@@ -1,10 +1,8 @@
 # [Engineering portfolio](https://santiagomadriz.com/dev/) · [LinkedIn](https://www.linkedin.com/in/santiagomadriz/)
 
-## Selected repositories
+## Selected work
 
-| Repository | What it includes | Engineering evidence |
-| --- | --- | --- |
-| [Playwright Quality Engineering](https://github.com/santiago-madriz/playwright-quality-engineering) | Production-style Playwright + TypeScript suite covering UI journeys, API/HTTP contracts, accessibility, responsive behavior, performance, and cross-browser execution | Risk-based test architecture, reusable fixtures, release gates, CI diagnostics, traces, screenshots, and failure triage |
-| [Spanish Sentiment Lab](https://github.com/santiago-madriz/spanish-sentiment-lab) | Flask application with browser and JSON API workflows, an injectable sentiment analyzer, and SQLite persistence | API validation, negative-path tests, database constraints, CSRF protection, static analysis, typing, dependency auditing, and coverage gates |
-| [Engineering Portfolio](https://github.com/santiago-madriz/engineering-portfolio) | Astro + TypeScript engineering portfolio with project case studies and technical writing | Responsive implementation, accessible navigation, automated link and layout checks, production builds, and deployment configuration |
-| [Photography & Film Platform](https://github.com/santiago-madriz/santiago-madriz.github.io) | Production bilingual media portfolio with filtering, galleries, video, and a secure contact flow | Accessible interaction design, localization persistence, reduced-motion support, CSP, form hardening, and Playwright regression coverage |
+- **[Playwright Quality Engineering](https://github.com/santiago-madriz/playwright-quality-engineering)** — Risk-based testing across UI, APIs, accessibility, performance, and CI. `Playwright · TypeScript`
+- **[Spanish Sentiment Lab](https://github.com/santiago-madriz/spanish-sentiment-lab)** — Secure Flask application with an optional OpenAI engine and a tested JSON API. `Python · Flask · SQLite`
+- **[Engineering Portfolio](https://github.com/santiago-madriz/engineering-portfolio)** — Responsive case-study portfolio with accessible navigation and automated checks. `Astro · TypeScript`
+- **[Photography & Film Platform](https://github.com/santiago-madriz/santiago-madriz.github.io)** — Bilingual production site with media galleries, accessible interactions, and a protected contact flow. `JavaScript · Playwright`
