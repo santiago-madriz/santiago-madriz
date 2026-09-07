@@ -1,4 +1,4 @@
-# [Engineering portfolio](https://santiagomadriz.com/santiago-madriz.dev/) · [LinkedIn](https://www.linkedin.com/in/santiagomadriz/)
+# [Engineering portfolio](https://santiagomadriz.com/dev/) · [LinkedIn](https://www.linkedin.com/in/santiagomadriz/)
 
 ## Selected repositories
 
