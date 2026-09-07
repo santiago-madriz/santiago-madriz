@@ -1,5 +1,7 @@
 # Santiago Madriz
 
+[Engineering portfolio](https://santiagomadriz.com/santiago-madriz.dev/) · [LinkedIn](https://www.linkedin.com/in/santiago-madriz/)
+
 Software Engineer and Quality Engineer building reliable web systems, test architecture, APIs, and CI/CD quality gates.
 
 ## Selected repositories
@@ -10,5 +12,3 @@ Software Engineer and Quality Engineer building reliable web systems, test archi
 | [Spanish Sentiment Lab](https://github.com/santiago-madriz/spanish-sentiment-lab) | Flask application with browser and JSON API workflows, an injectable sentiment analyzer, and SQLite persistence | API validation, negative-path tests, database constraints, CSRF protection, static analysis, typing, dependency auditing, and coverage gates |
 | [santiago-madriz.dev](https://github.com/santiago-madriz/santiago-madriz.dev) | Astro + TypeScript engineering portfolio with project case studies and technical writing | Responsive implementation, accessible navigation, automated link and layout checks, production builds, and deployment configuration |
 | [Photography & Film Platform](https://github.com/santiago-madriz/santiago-madriz.github.io) | Production bilingual media portfolio with filtering, galleries, video, and a secure contact flow | Accessible interaction design, localization persistence, reduced-motion support, CSP, form hardening, and Playwright regression coverage |
-
-[Engineering portfolio](https://santiagomadriz.com/santiago-madriz.dev/) · [LinkedIn](https://www.linkedin.com/in/santiago-madriz/)
