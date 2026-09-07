@@ -1,8 +1,4 @@
-# Santiago Madriz
-
-[Engineering portfolio](https://santiagomadriz.com/santiago-madriz.dev/) · [LinkedIn](https://www.linkedin.com/in/santiago-madriz/)
-
-Software Engineer and Quality Engineer building reliable web systems, test architecture, APIs, and CI/CD quality gates.
+# [Engineering portfolio](https://santiagomadriz.com/santiago-madriz.dev/) · [LinkedIn](https://www.linkedin.com/in/santiago-madriz/)
 
 ## Selected repositories
 
